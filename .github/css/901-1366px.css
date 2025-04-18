@@ -1,0 +1,93 @@
+@media (min-width:901px) and (max-width:1366px) {
+    .services-card__toggle {
+        right: 3%;
+        bottom: 7%;
+        font-size: 140%;
+        min-width: 30px;
+        max-width: 70px;
+      }
+
+      .nav_bar_item:not(:first-child):not(:last-child) {
+        margin-left: 9vw;
+      }
+
+      .head_img-placeholder {
+        height: 77vh;
+      }
+  
+      .decorate-service {
+        min-width: 78%;
+        max-width: 98%;
+        height: 20%;
+      }
+
+      .nav_bar_list {
+        margin-left: 24vw;
+      }
+
+      #nav_bar_logo {
+        left: 3%;
+      }
+
+      #lang_swith {
+        top: 26.5%;
+      }
+
+      .multi-txt {
+        font-size: 77%;
+      }
+
+      .air-txt {
+        font-size: 85%;
+      }
+
+      .head_title {
+        top: 44%;
+        font-size: 280%;
+      }
+
+      .info_block {
+      margin-left: 0%;
+      }
+
+    .info_block_container {
+      margin-top: 8.5rem;
+      margin-left: 5%;
+      margin-bottom: 3.5%;
+      }
+
+    .info_title {
+      min-width: 200px;
+      max-width: 90%;
+      font-size: 120%;
+      }
+
+      .contact_img {
+        margin-top: 2em;
+        width: 68%;
+        height: 68.3%;
+      }
+
+      .contact_title {
+        margin-top: 0.6em;
+        margin-bottom: 0.6em;
+      }
+
+      .contact_list {
+        font-size: 180%;
+        width: 100%;
+      }
+
+      .contact_title {
+        font-size: 280%;
+      }
+
+      .scroll-to-top {
+        bottom: 2%;
+        right: 1%;
+      }
+
+      .footer {
+        margin-top: 6%;
+      }
+}
