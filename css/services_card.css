@@ -240,8 +240,8 @@
       height: auto;
       min-width: 90%;
       max-width: 95%;
-      min-height: 87vh;
-      max-height: 92vh;
+      min-height: 90vh;
+      max-height: 95vh;
       padding-bottom: 20px;
     }
   
@@ -290,7 +290,7 @@
     }
 
     .service_txt {
-      font-size: 85%;
+      font-size: 80%;
     }
 
     .services-card__back {
